@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://arun1997-github.github.io/react-routes/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
