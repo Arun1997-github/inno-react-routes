@@ -493,6 +493,18 @@ button:hover{
     margin-left: 0;
   }
 
+  .email{
+    /* border: 1px solid red; */
+    width: 350px;
+    text-align: center;
+    margin-left: 30px;
+  }
+
+  .email .strong{
+    font-size: 18px;
+    margin-left: 0;
+  }
+
   .location .para, .email .para1 {
     font-size: 14px;
     margin-left: 0;
